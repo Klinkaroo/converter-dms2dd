@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 venv/
 .env
+
+airspace_data.txt
+converted_data.txt
